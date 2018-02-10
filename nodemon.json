@@ -1,0 +1,6 @@
+{
+  "env": {
+    "DATABASE" : "mongodb://localhost:27017/node-shop",
+    "JWT_KEY": "secret"
+  }
+}
